@@ -1,0 +1,19 @@
+{
+  "name": "encode-decode",
+  "version": "0.0.1",
+  "description": "",
+  "main": "init.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/franzheidl/encode-decode.chocmixin.git"
+  },
+  "keywords": [
+    "encode",
+    "decode",
+    "url",
+    "base64"
+  ],
+  "author": "Franz Heidl",
+  "license": "MIT"
+}
+
